@@ -1,6 +1,6 @@
 {
-  "buildCommand": "cd SoundWaveHub && npm install && npm run build",
+  "buildCommand": "cd SoundWaveHub && npm ci && npm run build",
   "outputDirectory": "SoundWaveHub/dist",
   "devCommand": "cd SoundWaveHub && npm run dev",
-  "installCommand": "cd SoundWaveHub && npm install"
+  "installCommand": "npm install"
 }
