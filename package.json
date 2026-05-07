@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "cd SoundWaveHub && npm install && npm run build",
+    "dev": "cd SoundWaveHub && npm run dev"
+  }
+}
